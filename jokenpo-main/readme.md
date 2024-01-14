@@ -1,5 +1,5 @@
 # Yu-Gi-Oh | Jo-ken-po Edition
-Jogo de piada
+Jogo de pedra papel e tesoura
 Conceitos diversificados:
 
 Manual de armazenamento e gerenciamento de estado
